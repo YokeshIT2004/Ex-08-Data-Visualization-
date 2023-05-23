@@ -18,8 +18,8 @@ Apply data visualization techniques to identify the patterns of the data.
 
 
 ## Data Pre-Processing
-#Name:Yogesh B
-#Regno:212221220062
+###Name:Yogesh B
+###Regno:212221220062
 ```
 import pandas as pd
 import numpy as np
